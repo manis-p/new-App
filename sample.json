@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Isabelle Khurshudyan, David L. Stern",
+    "title": "Zelensky's shakeup of military command, meant as a refresh, risks backlash - The Washington Post",
+    "description": "When Ukrainian President Volodymyr Zelensky told Gen. Valery Zaluzhny that he was being dismissed, the commander offered thoughts about the problems his successor will face.",
+    "url": "https://www.washingtonpost.com/world/2024/02/01/zelensky-zaluzhny-ukraine-military-shakeup/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5BSHDMWUPEVYCUMIWTG43XYEU_size-normalized.JPG&w=1440",
+    "publishedAt": "2024-02-01T21:12:58Z",
+    "content": "KYIV When Volodymyr Zelensky told his top commander, Gen. Valery Zaluzhny, on Monday that he would soon be dismissed, the Ukrainian president suggested a leadership change might help provide a refres… [+9773 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Rohan Goswami",
+    "title": "Meta is paying first-ever dividend, authorizes $50 billion buyback - CNBC",
+    "description": "Meta will pay a 50 cent dividend, its first ever, and has authorized a $50 billion share buyback.",
+    "url": "https://www.cnbc.com/2024/02/01/meta-is-paying-first-ever-dividend-authorizes-50-billion-buyback.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1706827527&w=1920&h=1080",
+    "publishedAt": "2024-02-01T21:06:55Z",
+    "content": "Meta announced on Thursday that it will pay a quarterly dividend for the first time, and said it authorized an expanded $50 billion share buyback program.\r\nThe company will pay a per share dividend o… [+1212 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera Staff",
+    "title": "US judge urges Biden to examine support for ‘plausible genocide’ in Gaza - Al Jazeera English",
+    "description": "Despite dismissal of a case accusing officials of complicity in Gaza ‘genocide’, advocates say ruling marks a victory.",
+    "url": "https://www.aljazeera.com/news/2024/2/1/us-judge-urges-biden-to-examine-support-for-plausible-genocide-in-gaza",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-01-31T170005Z_143823070_RC2AE5AURR7H_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-UN-1706805318.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-02-01T21:05:35Z",
+    "content": "A United States federal court has dismissed a case accusing President Joe Biden and other senior US officials of being complicit in Israels alleged genocide in Gaza.\r\nStill, the courts decision (PDF)… [+4914 chars]"
+    },
+    {
+    "source": {
+    "id": "nfl-news",
+    "name": "NFL News"
+    },
+    "author": null,
+    "title": "New Seahawks HC Mike Macdonald to call defensive plays, notes 'different personality' from Pete Carroll - NFL.com",
+    "description": "Mike Macdonald was introduced as the new Seahawks head coach on Thursday, and he noted that he isn't trying to replicate Pete Carroll's era in Seattle.",
+    "url": "https://www.nfl.com/news/new-seahawks-hc-mike-macdonald-to-call-defensive-plays-notes-different-personality-from-pete-carroll",
+    "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/isysejweq5ldnhcawfia",
+    "publishedAt": "2024-02-01T20:57:00Z",
+    "content": "It's great that Macdonald isn't going to try to be another version of Carroll. In fact, after the Seahawks parted with Carroll in January, a mimic of the coach is likely not what general manager John… [+2007 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Athletic"
+    },
+    "author": "Luke Smith",
+    "title": "How Lewis Hamilton transcended Formula One stardom - The Athletic",
+    "description": "Hamilton was a celebrity long before Netflix’s “Drive to Survive,” one who wielded his influence to advance causes far beyond sports.",
+    "url": "https://theathletic.com/5244771/2024/02/01/lewis-hamilton-f1-stardom-transcendence/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/02/01140248/GettyImages-1373224108-scaled.jpg",
+    "publishedAt": "2024-02-01T20:03:17Z",
+    "content": "Throughout sports, some figures attain a reach and a popularity that goes far beyond the normal confines of their league or championship.\r\nIn Formula One, no driver has achieved that status quite the… [+9500 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Callie Lawson-Freeman",
+    "title": "Commanders to hire Cowboys DC Dan Quinn as new head coach, per reports - Yahoo Sports",
+    "description": "The last vacancy of the 2024 NFL coaching cycle has been filled.",
+    "url": "https://sports.yahoo.com/commanders-hire-cowboys-dc-dan-quinn-as-new-head-coach-per-reports-161151149.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D.ksBsoatU_rN92v3UtbQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/dd19b320-c11f-11ee-9d97-e091515cca22",
+    "publishedAt": "2024-02-01T20:00:10Z",
+    "content": "The Washington Commanders are hiring Dallas Cowboys defensive coordinator Dan Quinn as their new head coach, according to multiple mediareports Thursday.\r\nThe Cowboys, meanwhile, are reportedly inter… [+2924 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Jack Hobbs",
+    "title": "Britney Spears is ‘not sorry’ after Justin Timberlake’s rumored shade: ‘Someone is talking s—t’ - New York Post ",
+    "description": "Things are getting quite toxic.",
+    "url": "https://nypost.com/2024/02/01/entertainment/britney-spears-says-shes-not-sorry-one-day-after-justin-timberlakes-rumored-shade/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/newspress-collage-de8k1oald-1706814836357.jpg?quality=75&strip=all&1706796994&w=1024",
+    "publishedAt": "2024-02-01T19:35:00Z",
+    "content": "Things are getting quite toxic. \r\nPop diva Britney Spears posted a cryptic photo on Instagram Thursday in which the riled-up singer claimed someone was “talking s–t” about her. \r\n“Someone told me som… [+4055 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters.com",
+    "title": "EU leaders isolated Orban to seal Ukraine aid deal - Reuters.com",
+    "description": null,
+    "url": "https://www.reuters.com/world/europe/eu-leaders-isolated-orban-seal-ukraine-aid-deal-2024-02-01/",
+    "urlToImage": null,
+    "publishedAt": "2024-02-01T19:09:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Mark Johnson, Sabrina Malhi",
+    "title": "Scientists found a major clue why 4 of 5 autoimmune patients are women - The Washington Post",
+    "description": "The discovery could lead to new tests that catch autoimmune diseases sooner and, in the longer term, to new and more effective treatments.",
+    "url": "https://www.washingtonpost.com/science/2024/02/01/why-women-have-more-autoimmune-diseases/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPHYFQJJF7CGSPOCPJNMZIKW6Q.jpg&w=1440",
+    "publishedAt": "2024-02-01T19:02:00Z",
+    "content": "An international team led by scientists at Stanford University has discovered a probable explanation for a decades-old biological mystery: why vastly more women than men suffer from autoimmune diseas… [+6739 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Emma Roth",
+    "title": "Meta’s Quest headsets add spatial video and pinch controls to compete with Vision Pro - The Verge",
+    "description": "Meta is rolling out spatial video and new pinching gestures to its Quest 2 and Quest 3 headsets just before the launch of the Vision Pro.",
+    "url": "https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/Zh72X2mSe4dkOKcoxsEjQMTn6Yw=/0x0:780x439/1200x628/filters:focal(390x220:391x221)/cdn.vox-cdn.com/uploads/chorus_asset/file/25261271/meta_spatial_vid.png",
+    "publishedAt": "2024-02-01T18:17:59Z",
+    "content": "Metas Quest headsets add spatial video and pinch controls to compete with Vision Pro\r\nMetas Quest headsets add spatial video and pinch controls to compete with Vision Pro\r\n / Now, Quest 2 and Quest 3… [+3096 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "International action fails to stop Houthi attacks - BBC.com",
+    "description": "BBC Verify analysis shows how Houthi tactics have changed, as commercial shipping traffic in the Red Sea halves.",
+    "url": "https://www.bbc.com/news/world-middle-east-68159939",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/159D4/production/_132523588_hnxtbub5-verify-nc.jpg",
+    "publishedAt": "2024-02-01T18:16:00Z",
+    "content": "By Joshua Cheetham, Shruti Menon, Yi Ma, and Paul MyersBBC Verify\r\nThe Marlin Luanda, operated by a UK-based company, was struck by a Houthi missile on 26 January in the Gulf of Aden\r\nRepeated US and… [+5368 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Eric Levenson, Lauren del Valle",
+    "title": "Mother of Oxford, Michigan, school shooter takes the stand in her manslaughter trial - CNN",
+    "description": "Jennifer Crumbley, the mother of the teenager who killed four people at a Michigan high school in 2021, took the stand in her manslaughter trial Thursday and testified it was her husband’s responsibility to store Ethan’s gun safely.",
+    "url": "https://www.cnn.com/2024/02/01/us/jennifer-crumbley-trial/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24032661951503.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-01T18:05:00Z",
+    "content": "Jennifer Crumbley, the mother of the teenager who killed four people at a Michigan high school in 2021, took the stand in her manslaughter trial Thursday and testified it was her husbands responsibil… [+7270 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "STAT"
+    },
+    "author": "Helen Branswell",
+    "title": "Updated Covid vaccine has 54% effectiveness, new study suggests - STAT",
+    "description": "New data released Thursday by the CDC suggest that the most recent Covid-19 booster offers about 54% percent protection against infection with the virus.",
+    "url": "https://www.statnews.com/2024/02/01/updated-covid-vaccine-effectiveness/",
+    "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/02/AP23037634781772-1024x576.jpg",
+    "publishedAt": "2024-02-01T18:03:35Z",
+    "content": "New data released Thursday by the Centers for Disease Control and Prevention suggest that the most recent Covid-19 booster offers about 54% percent protection against infection with the virus.\r\nA stu… [+2796 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "CLAIRE RUSH",
+    "title": "Oregon high court says 10 GOP state senators who staged long walkout can't run for reelection - The Associated Press",
+    "description": "The Oregon Supreme Court said Thursday that 10 Republican state senators who staged a record-long walkout last year to stall bills on abortion, transgender health care and gun rights cannot run for reelection. The decision upholds the secretary of state’s dec…",
+    "url": "https://apnews.com/article/oregon-republican-walkout-reelection-f1d270db9e9a72935c13b973d79a4bb7",
+    "urlToImage": "https://dims.apnews.com/dims4/default/2d5224e/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2F32%2F159a2d78b9c554c26ddeb9333de7%2F38710cdcbbbe4677abf3b52da6d6b833",
+    "publishedAt": "2024-02-01T16:41:15Z",
+    "content": "SALEM, Ore. (AP) The Oregon Supreme Court said Thursday that 10 Republican state senators who staged a record-long walkout last year to stall bills on abortion, transgender health care and gun rights… [+4568 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KSL.com"
+    },
+    "author": "https://www.facebook.com/kslcom/",
+    "title": "The US hasn't seen syphilis numbers this high since 1950. Other STD rates are down or flat - KSL.com",
+    "description": "Infectious syphilis cases in the U.S. rose by 9% in 2022. That's according to a new federal government report released Tuesday on sexually transmitted diseases in adults.",
+    "url": "https://www.ksl.com/article/50860885/the-us-hasnt-seen-syphilis-numbers-this-high-since-1950-other-std-rates-are-down-or-flat",
+    "urlToImage": "https://img.ksl.com/slc/2967/296791/29679146.jpg?filter=kslv2/responsive_story_lg",
+    "publishedAt": "2024-02-01T16:34:06Z",
+    "content": "Estimated read time: 3-4\r\n minutes\r\nNEW YORK The U.S. syphilis epidemic isn't abating, with the rate of infectious cases rising 9% in 2022, according to a new federal government report on sexually tr… [+4021 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Melissa Ruggieri",
+    "title": "Taylor Swift, Miley Cyrus and SZA are poised to win big at the Grammys. But will they? - USA TODAY",
+    "description": "Will Miley Cyrus finally get her Grammy due? Will Taylor Swift break records? What about leading nominee SZA? Our Grammy predictions break it down.",
+    "url": "https://www.usatoday.com/story/entertainment/music/2024/02/01/grammys-predictions-wins-for-taylor-swift-sza-miley-cyrus/72428341007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/07/USAT/71843256007-miley-cyrus-when-i-was-young.png?crop=1364,768,x0,y409&width=1364&height=768&format=pjpg&auto=webp",
+    "publishedAt": "2024-02-01T16:20:12Z",
+    "content": "Say this for the 66th annual Grammy Awards they definitely went eclectic.\r\nWith SZA, Taylor Swift, Billie Eilish, Olivia Rodrigo and Miley Cyrus landing in the three biggest categories, it's unlikely… [+5227 chars]"
+    }
+    ]
+    }

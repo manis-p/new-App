@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Spotify"
+		},
+		{
+			"path": "../../../../Express"
+		},
+		{
+			"path": "../../../../Express/my-ipad/Backend"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
